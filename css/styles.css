@@ -2,10 +2,28 @@ html {
     color: salmon;
 }
 
+body {
+    color: darkslateblue;
+    background-color:azure
+}
+
 h1 {
     color: sandybrown;
+    background-color: aquamarine;
+    font-family: "arial"
 }
+
 
 p {
     color: steelblue;
+    background-color: mistyrose
+}
+
+a{
+    color: aquamarine
+}
+
+h2{
+    font-family: monospace;
+    font-weight: 900
 }
