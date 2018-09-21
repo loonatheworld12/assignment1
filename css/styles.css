@@ -13,6 +13,17 @@ h1 {
     font-family: "arial"
 }
 
+.cis-260 {
+    color: saddlebrown;
+    background-color: darkseagreen;
+    font-family: fantasy
+        
+}
+
+.balababa {
+    color: skyblue;
+    background-color: cadetblue
+}
 
 p {
     color: steelblue;
