@@ -27,10 +27,21 @@ h1 {
 
 p {
     color: #75bcab;
-    font-size: 72pt;
-    background-color: mistyrose
+    font-size: 71pt;
+/*    background-color: mistyrose*/
 }
 
+#special-paragraph {
+    color: #0000ff;
+}
+
+#wow{
+    color: darkred
+}
+
+body p a {
+    color: darkmagenta
+}
 a{
     color: aquamarine
 }
@@ -39,3 +50,4 @@ h2{
     font-family: monospace;
     font-weight: 900
 }
+
